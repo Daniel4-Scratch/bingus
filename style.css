@@ -1,0 +1,25 @@
+body{
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+#canvas{
+    position: relative;
+    width: 500px;
+    height: 500px;
+    border: 1px solid black;
+    background-image: url("./assets/grass.jpeg");
+}
+
+#bingus, .element{
+    position: absolute;
+    height:40px;
+    width: 40px;
+    left: 0px
+}
+
+#audio{
+    display:none;
+}
+
+#start{
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
